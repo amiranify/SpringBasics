@@ -95,6 +95,4 @@ public class Main {
 реализованный на вебинаре. Необходимо добавить
 дату входа на страницу http://localhost:8080/greeting
 
-`Hello, World!`  
-
-`Дата входа на страницу:2022-12-19`
+ ![2023-03-03_15-04-30](https://user-images.githubusercontent.com/110248739/222716204-c941bca5-2dc8-4b9e-96b3-c2de1d4b9f5d.png)
